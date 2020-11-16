@@ -38,6 +38,12 @@
             "homepage": "https://github.com/rinvex/laravel-support/contributors"
         }
     ],
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/dvanast/uniquewith-validator.git"
+      }
+    ],
     "require": {
         "php": "^7.4.0",
         "felixkiss/uniquewith-validator": "^3.4.0",
